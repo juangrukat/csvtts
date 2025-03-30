@@ -9,7 +9,7 @@ A desktop application for converting text from CSV files to speech using OpenAI'
 CSV to TTS Converter is a user-friendly tool that allows you to:
 - Load CSV files and select specific columns containing text to convert
 - Generate high-quality speech audio using OpenAI's TTS API
-- Process individual files or batch process multiple CSV files
+- Process multiple files automatically with built-in batch processing
 - Preview audio before processing large files
 - Export generated audio files to a location of your choice
 
@@ -20,10 +20,12 @@ CSV to TTS Converter is a user-friendly tool that allows you to:
 - Multiple Voice Options: Select from various OpenAI voices (alloy, echo, fable, onyx, nova, shimmer, coral, ash, ballad, sage)
 - Model Selection: Choose between different TTS models (tts-1, tts-1-hd, gpt-4o-mini-tts)
 - Voice Instructions: Add custom instructions for voice style (accent, emotion, etc.) when using gpt-4o-mini-tts model
-- Batch Processing: Process multiple CSV files in a directory at once
+- Automatic Batch Processing: Automatically processes all rows in the selected CSV file
 - Audio Preview: Generate and play a preview of the TTS output before processing
 - Export Options: Export all processed files to a directory of your choice
 - Multiple Output Formats: Support for mp3, opus, aac, and flac audio formats
+- Progress Tracking: Real-time progress bar shows conversion status
+- Error Handling: Automatic error handling and retries for failed conversions
 
 ## Requirements
 
