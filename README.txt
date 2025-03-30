@@ -1,5 +1,5 @@
 # CSV to TTS Converter
-![image](https://github.com/juangrukat/csvtts/blob/main/csvtts.png)
+![UI](https://github.com/juangrukat/csvtts/blob/main/csvtts.png)
 A desktop application for converting text from CSV files to speech using OpenAI's Text-to-Speech API.
 
 ## Overview
