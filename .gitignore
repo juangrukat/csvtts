@@ -44,5 +44,4 @@ env/
 
 # Build and dist
 build/
-dist/
 *.egg-info/
