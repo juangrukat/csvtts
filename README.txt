@@ -58,6 +58,7 @@ CSV to TTS Converter is a user-friendly tool that allows you to:
 2. Load a CSV File:
    - Click the "Browse" button to select a CSV file
    - The application will display a preview of the file contents
+   - Note: The header row (row 1) will not be included in the audio output
 
 3. Select Text Column:
    - Choose which column contains the text you want to convert to speech
